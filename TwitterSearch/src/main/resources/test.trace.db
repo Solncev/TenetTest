@@ -1,0 +1,608 @@
+2017-07-02 12:49:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 12:50:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 12:57:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 13:00:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 13:56:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 14:08:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 14:13:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 14:17:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 14:25:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 14:50:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 14:55:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 14:58:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 15:04:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:00:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:26:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:30:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:33:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:34:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:36:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:39:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:40:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:44:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:50:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:51:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:53:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:56:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:58:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 18:59:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 19:00:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 19:19:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 19:26:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 19:31:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 19:32:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 20:15:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 20:29:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 20:38:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 20:55:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]
+2017-07-02 21:01:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "TWEETS" уже существует
+Table "TWEETS" already exists; SQL statement:
+CREATE TABLE tweets (
+  id int NOT NULL AUTO_INCREMENT,
+  text VARCHAR,
+  link VARCHAR,
+  date VARCHAR,
+  author VARCHAR,
+  retweets INT,
+  likes INT,
+  CONSTRAINT PK_Tweets PRIMARY KEY (author,text)
+);
+
+
+ [42101-194]

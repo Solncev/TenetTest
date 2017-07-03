@@ -11,7 +11,7 @@ import java.sql.SQLException;
  */
 public class ConnectionSingleton {
     private final static String DRIVER = "org.h2.Driver";
-    private final static String URL = "jdbc:h2:file:C:\\TwitterSearch\\src\\main\\resources\\test";
+    private final static String URL = "jdbc:h2:file:./test";
     private final static String USER = "test";
     private final static String PASSWORD = "test";
     private static Connection connection = null;
